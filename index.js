@@ -85,7 +85,7 @@ function init() {
         .then(function (answers) {
             console.log(answers)
 
-            writeToFile("app.md", answers);
+            writeToFile("sample.md", answers);
         })
 
 

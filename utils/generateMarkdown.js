@@ -88,7 +88,7 @@ function generateMarkdown(data) {
   - GitHub: https://github.com/${data.username}
   - Email: ${data.email}
 
-  ${renderLicenseSection(data)}
+${renderLicenseSection(data)}
 `;
 }
 
