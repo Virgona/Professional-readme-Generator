@@ -1,10 +1,6 @@
-# readmedik
-
-  MIT
+# Readme Generator
   
-  ## Description
-  
-  balls rerer
+  makes a readme from user inputs
   
   ## Table of Contents
   
@@ -17,23 +13,19 @@
   
   ## Installation
   
-  rr
+  npm i
   
   ## Usage
   
-  dont fuck it up
-  
-  ## License
-  
-  https://choosealicense.com/licenses/MIT/
+  its fun
   
   ## Contributing
   
-  be good
+  ask permission first
   
   ## Tests
   
-  ee
+  test runna
   
   ## Questions
 
@@ -42,3 +34,9 @@
   - GitHub: https://github.com/Virgona
   - Email: tobiasvirgona@gmail.com
 
+  
+    MIT
+    https://choosealicense.com/licenses/MIT/
+    undefined
+    
+    

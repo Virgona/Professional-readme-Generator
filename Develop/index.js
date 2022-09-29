@@ -59,7 +59,7 @@ function init() {
                 type: 'list',
                 name: 'license',
                 message: questions[4],
-                choices: ['MIT', 'GNU', 'Apache', 'ISC']
+                choices: ['MIT', 'GNU', 'Apache', 'Unlicense']
             },
             {
                 type: 'input',
