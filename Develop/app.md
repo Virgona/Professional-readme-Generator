@@ -1,6 +1,9 @@
 # Readme Generator
-  
-  makes a readme from user inputs
+
+  ![License Badge](https://img.shields.io/badge/license-Apache-green.svg)
+
+  ## Description
+  creates a readme.md from a users inputs
   
   ## Table of Contents
   
@@ -17,7 +20,7 @@
   
   ## Usage
   
-  its fun
+  its cool
   
   ## Contributing
   
@@ -25,7 +28,7 @@
   
   ## Tests
   
-  test runna
+  npm run test
   
   ## Questions
 
@@ -35,8 +38,10 @@
   - Email: tobiasvirgona@gmail.com
 
   
-    MIT
-    https://choosealicense.com/licenses/MIT/
-    undefined
+    ## License
+    - Apache
+    - https://choosealicense.com/licenses/Apache/
+    - he Apache License is a permissive free software license written by the Apache Software Foundation (ASF). 
+  It allows users to use the software for any purpose, to distribute it, to modify it, and to distribute modified versions of the software under the terms of the license, without concern for royalties.
     
     
